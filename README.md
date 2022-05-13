@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @teriqTT
 - 👀 I’m interested in Data Analysis and Data Science
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python and also doing the Odin Project to increase my exposure to software engineering as well.
+- 💞️ I’m looking to collaborate on Data science porjects and coding challenges.
 - 📫 How to reach me ...
 
 <!---
